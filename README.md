@@ -115,7 +115,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/heweiye/ToyoDAd
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/heweiye/ToyoDAdoubiBackup/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/yuanter/ToyoDAdoubiBackup/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 ```
 
 ---
